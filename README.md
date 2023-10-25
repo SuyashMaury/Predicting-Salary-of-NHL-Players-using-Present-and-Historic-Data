@@ -1,5 +1,4 @@
 # Predicting-Salary-of-NHL-Players-using-Present-and-Historic-Data
-Problem Statement: 
 
 
 In the context of the National Hockey League (NHL), predicting the salaries of players is crucial for teams to effectively manage their resources and make informed decisions during player contract negotiations. The dynamic nature of player salaries in the NHL is influenced by a multitude of factors, including player performance, individual and team achievements, career progression, and market demand. However, accurately forecasting the salary of NHL players remains a complex challenge due to the intricate interplay of these diverse features. 
