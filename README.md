@@ -10,5 +10,5 @@ Data Source:
 
 
 
-The data set was obtained from Kaggle, a popular data science website. The user acknowledged that the data set was acquired from a popular hockey analytics website called Hockey Abstract. The data set contains 874 observations, 153 inputs, and 1 output. The inputs are a mixture of categorical data (country born, year drafted, etc.), discrete data (goals scored, penalties incurred, faceoffs won, etc.) and continuous data (assist percentage, player height, time on ice, etc.). The output variable is the salary of the player (in USD). I have randomly split the players 
+The data set is collected fron secondary data sourse.The data set contains 874 observations, 153 inputs, and 1 output. The inputs are a mixture of categorical data (country born, year drafted, etc.), discrete data (goals scored, penalties incurred, faceoffs won, etc.) and continuous data (assist percentage, player height, time on ice, etc.). The output variable is the salary of the player (in USD). I have randomly split the players 
  
